@@ -49,7 +49,7 @@ Backup and export files are created on your device. Automatic backup saves a fil
 
 ## Service providers
 
-Orgbricks runs on Cloudflare (hosting, database and storage), which processes synced data for us. See https://orgbricks.com/privacy for how Orgbricks accounts are handled.
+Orgbricks uses a third-party cloud provider for hosting, database and storage, which processes synced data on our behalf. See https://orgbricks.com/privacy for how Orgbricks accounts are handled.
 
 ## Keeping and deleting data
 
